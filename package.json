@@ -13,7 +13,7 @@
   "author": "Matheus Maicá",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs": "^1.5.1",
+    "@tensorflow/tfjs": "^4.20.0",
     "dotenv": "^8.2.0",
     "esm": "^3.2.25",
     "request": "^2.88.0",
